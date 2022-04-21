@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ztz.727.com</title>
-    <link>https://ztz.github.io/</link>
+    <link>https://ztz727.github.io/ztz.github.io/</link>
     <description>Recent content on ztz.727.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Apr 2022 14:50:47 +0800</lastBuildDate><atom:link href="https://ztz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 14:50:47 +0800</lastBuildDate><atom:link href="https://ztz727.github.io/ztz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://ztz.github.io/post/first-post/</link>
+      <link>https://ztz727.github.io/ztz.github.io/post/first-post/</link>
       <pubDate>Thu, 21 Apr 2022 14:50:47 +0800</pubDate>
       
-      <guid>https://ztz.github.io/post/first-post/</guid>
+      <guid>https://ztz727.github.io/ztz.github.io/post/first-post/</guid>
       <description>post test </description>
     </item>
     
